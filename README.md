@@ -1,8 +1,10 @@
 # TestVuln
 Vulnerability testing - Technical Assignment Report
+
 It is a result of Technical Assignment performed
 
 Technical Assignment:
+
 Prepare the testing environment and choose 2 of the following assignments below that best match to your past experiences for one of the following Github repositories -> 
 
 •	https://github.com/scalessec/Toast-Swift 
